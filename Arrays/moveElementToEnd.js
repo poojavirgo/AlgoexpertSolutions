@@ -1,6 +1,7 @@
-//Move Element To end
-//Time Complexity = O(N);
-//Space Complexity = O(1);
+//Move Element to End
+//Time Complexity : O(N)
+//Space Complexity: O(1)
+
 
 function moveElementToEnd(array, toMove) {
     // Write your code here.
@@ -26,4 +27,3 @@ function moveElementToEnd(array, toMove) {
   
   // Do not edit the line below.
   exports.moveElementToEnd = moveElementToEnd;
-  
